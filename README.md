@@ -90,5 +90,4 @@ Jika Anda menjalankan seeder bawaan, Anda dapat masuk menggunakan akun percobaan
 
 ---
 
-## 📘 Panduan Penggunaan
-Panduan penggunaan lengkap untuk masing-masing peran (Dosen & Admin) dapat dibaca pada file [PANDUAN_PENGGUNAAN_RPS.md](public/PANDUAN_PENGGUNAAN_RPS.md).
+
